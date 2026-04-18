@@ -1,10 +1,8 @@
 streamlit
 langchain
 langchain-openai
-langchain-chroma
 langchain-community
 langchain-classic
 pypdf
 tiktoken
-chromadb
-protobuf==4.25.3
+faiss-cpu
